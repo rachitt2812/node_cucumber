@@ -1,0 +1,16 @@
+{
+  "name": "node_cucumber_project",
+  "version": "1.0.0",
+  "description": "This project for cucumberjs learning purpose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aman Chaudhary",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "mysql": "^2.18.1"
+  }
+}
